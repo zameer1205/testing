@@ -1,0 +1,11 @@
+Light weight tags
+======================
+These tags only have a tage name
+To create a light weight tag to the latest commit
+git tag some_tag_name
+
+To create a light weight tag to an older commit
+git tag some_tag_name older_commit_id
+
+To create an annoted tag to the latest commit
+git tag -a "some_tag_name" -m "some msg related to the tag"
