@@ -1,0 +1,9 @@
+Git tagging
+================
+This is used to place book marks on important commits
+Generally it used to identfy the commits that are related to
+release events
+
+Tags are classifed into 2 types
+1 Light weight tags
+2 Annoted Tags
